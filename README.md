@@ -25,6 +25,8 @@ Current version: 1.0
 
 ![screen](assets/screen01.png)
 
+The `zoom` input is an array of floats, which allows specifying different zoom levels for each image in the batch.
+
 ## Contributing
 Contributions are welcome! Please submit a pull request or open an issue to discuss the changes you would like to make.
 
